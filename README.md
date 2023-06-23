@@ -6,6 +6,10 @@ For this project, I was given source code for a Horiseon project which was nearl
 <br>
 ![Picture of my code](./Develop/assets/images/Code.jpeg)
 
+Here is the link to the deployed website: 
+<br>
+[Click Here for link](https://lopez-jordan.github.io/Horiseon-updated/)
+
 ## Credits
 
 Credits to UC Berkeley Fullstack coding bootcamp repository:
